@@ -2,6 +2,7 @@
 
 A passionate data scientist from Boston, MA
 
+I am skilled in Python (Pandas, NumPy, Beautiful Soup), Data Visualization (Matplotlib, Plotly, Tableau), SQL, Machine Learning, ETL, and basic HTML/CSS/Javascript.
 
 👨‍💻 All of my projects are available at https://github.com/thomas-kulch/Data_Projects_TripleTen
 
