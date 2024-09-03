@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Thomas Kulch
+
+A passionate data scientist from Boston, MA
+
+
+👨‍💻 All of my projects are available at https://github.com/thomas-kulch/Data_Projects_TripleTen
+
+📫 How to reach me trkjr14@gmail.com
 
 <!--
 **Thomas-Kulch/Thomas-Kulch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
